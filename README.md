@@ -5,5 +5,7 @@ This is a short story, written in a Choose Your Own Adventure format. It was wri
 # CREDITS
 
 João "Reed" Oliveira - Story
+
 Micatalyst - Website
+
 Catarina Kinema - Graphic Assets
